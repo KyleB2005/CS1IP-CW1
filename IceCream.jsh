@@ -1,4 +1,4 @@
-String studentnumber = "33027054";
+        String studentnumber = "33027054";
         int prefferedFlavour = 0;
         int totalPrice = 0;
 
